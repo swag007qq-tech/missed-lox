@@ -1,0 +1,8 @@
+{
+  "name": "МИСЕД ГАВНО — Комната",
+  "description": "Интерактивная шуточная игра в одной комнате: кидай абсурдные предметы прямо в портрет на стене.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
